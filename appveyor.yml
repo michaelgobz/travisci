@@ -1,3 +1,6 @@
+
+# this is the windows continuous intergattion server
+
 # test against this version of node.js
 environment:
 matrix:
