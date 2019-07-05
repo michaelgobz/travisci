@@ -21,7 +21,7 @@ test_script:
  - npm --version
 #run test
 
-- npm test
+ - npm test
 
 # dont actually build
 build: off
